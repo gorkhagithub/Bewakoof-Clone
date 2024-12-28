@@ -60,13 +60,7 @@ it became very complicated to login a user then we change the structure and made
 
 3.We faced challenges with CSS tags like absolute and relative.We aligned Navigation bar with all the pages by giving it proper margin and padding.
 
-## Team
 
-- Yogesh
-- Sanket
-- Vinay
-- Shubham
-- tarun
 
 ## IA 
- Ashok
+ Abhishek Gorkha
