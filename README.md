@@ -1,6 +1,5 @@
 # Inspired by bewakoof.com
 
-This is our project for Unit-3 Construct week at Masai Shcool.
 Our main objective is to complete all main functionality of this e-commerce website, such as Login/Signup,
 Add/Buy and filter the product. We have completed this project in 5 days.
 
@@ -66,5 +65,5 @@ it became very complicated to login a user then we change the structure and made
  Abhishek Gorkha
  
  Akash Yadav
- 
+
  Arsalan Nawaz
